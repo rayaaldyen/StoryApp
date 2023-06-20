@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="title_signup_page">Lengkapi datamu dibawah ini</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan data terlebih dahulu</string>
+    <string name="title_login_page">Bagikan cerita menakjubkan Anda</string>
+    <string name="name">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="acc_availability">Belum punya akun?</string>
+    <string name="to_register">Daftar disini</string>
+    <string name="desc">Deskripsi</string>
+    <string name="add">Tambahkan cerita</string>
+    <string name="story_not_found">Tidak ada cerita yang ditemukan</string>
+    <string name="camera">kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="null_photo_warning">Masukkan foto</string>
+    <string name="null_desc_warning">Masukkan deskripsi</string>
+    <string name="login_invalid">Pastikan email atau kata sandi yang Anda masukkan benar</string>
+    <string name="alert_login">Login gagal</string>
+    <string name="back">Kembali</string>
+    <string name="uploaded_on">Diunggah pada</string>
+    <string name="date">12/04/2023</string>
+    <string name="error_message">Terjadi kesalahan saat menampilkan data</string>
+    <string name="permission_rejected">Tidak mendapatkan izin</string>
+    <string name="null_story_upload">Anda belum memasukkan data</string>
+    <string name="type_story">Ketik ceritamu disini</string>
+    <string name="failed_retrofit">Gagal melakukan instance Retrofit</string>
+    <string name="invalid_email">Format alamat email salah</string>
+    <string name="error_password">Panjang kata sandi minimal 8 karakter atau lebih</string>
+    <string name="signup_pass_tittle">Selamat!</string>
+    <string name="signup_successfully">Akun Anda telah berhasil dibuat, silahkan login untuk masuk ke halaman utama</string>
+    <string name="name_null_alert">Masukkan nama Anda</string>
+    <string name="email_null_alert">Masukkan email Anda</string>
+    <string name="password_null_alert">Masukkan password Anda</string>
+    <string name="language">Bahasa</string>
+    <string name="switch_theme">Ubah Tema</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="signup_failed">Terdapat kesalahan saat memasukkan data</string>
+    <string name="maps">Maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="retry">Coba lagi</string>
+    <string name="current_loc">Tambahkan lokasi terkini</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+</resources>

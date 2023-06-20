@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="title_signup_page">Complete your personal data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Share your amazing stories</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="acc_availability">Don`t have an account yet?</string>
+    <string name="to_register">Sign Up here</string>
+    <string name="desc">Description</string>
+    <string name="add">Add Story</string>
+    <string name="story_not_found">No stories found</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="null_photo_warning">Please enter a photo</string>
+    <string name="null_desc_warning">Please enter a description</string>
+    <string name="login_invalid">Make sure the email or password you entered is correct</string>
+    <string name="alert_login">Login failed</string>
+    <string name="back">Back</string>
+    <string name="uploaded_on">Uploaded On</string>
+    <string name="date">12/04/2023</string>
+    <string name="error_message">There is an error while showing the data</string>
+    <string name="permission_rejected">Did not get permissions</string>
+    <string name="null_story_upload">You have not entered data</string>
+    <string name="type_story">Type your story here</string>
+    <string name="failed_retrofit">Retrofit instance failed</string>
+    <string name="invalid_email">Invalid email address format</string>
+    <string name="error_password">Password length must be at least 8 characters or more</string>
+    <string name="signup_pass_tittle">Congratulations!</string>
+    <string name="signup_successfully">Your account has been successfully created, please login to go to the main page</string>
+    <string name="name_null_alert">Enter your name</string>
+    <string name="email_null_alert">Enter your email</string>
+    <string name="password_null_alert">Enter your password</string>
+    <string name="language">Language</string>
+    <string name="switch_theme">Switch Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="signup_failed">There is an error while entering the data</string>
+    <string name="maps">Maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="retry">Try again</string>
+    <string name="current_loc">Include current location</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+
+</resources>
